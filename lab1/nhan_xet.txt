@@ -1,0 +1,1 @@
+Bức ảnh trông rất khác biệt khi ở hệ màu HSV và LAB, điều này xảy ra vì hàm imwrite của opencv sẽ luôn coi ma trận biểu diễn ảnh là ma trận trong không gian màu BGR, vì vậy ảnh được biểu diễn ra sẽ trông khác với ảnh gốc.
