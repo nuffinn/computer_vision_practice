@@ -1,0 +1,3 @@
+/home/starburst/computer_vision/lab7/CMakeFiles/Lab7.dir
+/home/starburst/computer_vision/lab7/CMakeFiles/edit_cache.dir
+/home/starburst/computer_vision/lab7/CMakeFiles/rebuild_cache.dir
